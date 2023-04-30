@@ -7,6 +7,6 @@ entries:
     sources:
     - https://nlilaramani.github.io/charts
     urls:
-    - https://nlilaramani.github.io/charts/productms-1.0.tgz
-    version: 1.0
+    - https://nlilaramani.github.io/charts/productms-1.0.0.tgz
+    version: 1.0.0
 generated: 2016-10-06T16:23:20.499029981-06:00
