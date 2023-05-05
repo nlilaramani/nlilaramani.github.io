@@ -8,7 +8,7 @@ entries:
     - https://nlilaramani.github.io/charts
     urls:
     - https://nlilaramani.github.io/charts/productms-1.0.0.tgz
-      version: 1.0.0
+    version: 1.0.0
   myapp:
   - created: 2023-05-05T16:23:20.499814565-06:00
     description: Sample java microservice
@@ -17,6 +17,6 @@ entries:
     - https://nlilaramani.github.io/charts
     urls:
     - https://nlilaramani.github.io/charts/myapp-0.1.0.tgz
-      version: 1.0.0
+    version: 1.0.0
 
 generated: 2016-10-06T16:23:20.499029981-06:00
